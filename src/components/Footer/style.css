@@ -1,0 +1,13 @@
+#footer {
+  position: sticky;
+  bottom: 0;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0;
+  display: inline-block;
+}
+
+.space {
+  margin-left: 6px;
+}
