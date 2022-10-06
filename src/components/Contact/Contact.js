@@ -8,10 +8,10 @@ export default function Contact(props) {
       <hr />
       <p>Phone</p>
       <br />
-      <i class="material-icons">add_shopping_cart</i>
+      <i class="material-icons">contact_phone</i>
       <p>(972)201-8313</p>
 
-      <p>General Information</p>
+      <p>email:albaliciae@gmail.com</p>
       <h4>GitHub Link:</h4>
       <div class="card-action">
         <a href="https://github.com">Github link</a>

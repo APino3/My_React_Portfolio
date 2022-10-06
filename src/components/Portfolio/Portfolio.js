@@ -6,13 +6,17 @@ export default function Portfolio(props) {
     {
       name: "Weather",
       languages: ["Javascript", "HTML"],
-      link: "https://github.com",
+      link: "https://apino3.github.io/weather-dash/",
     },
-    { name: "Regex", languages: ["CSS", "HTML"], link: "https://github.com" },
     {
-      name: "Resume",
-      languages: ["Heroku", "HTML"],
-      link: "https://github.com",
+      name: "Run Buddy",
+      languages: ["CSS", "HTML"],
+      link: "https://apino3.github.io/run-buddy/",
+    },
+    {
+      name: "Code Quiz",
+      languages: ["HTML", "CSS"],
+      link: "https://apino3.github.io/Code_Quiz/",
     },
   ];
   return (

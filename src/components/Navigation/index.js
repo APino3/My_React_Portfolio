@@ -8,7 +8,7 @@ export default function Navigation(props) {
       <nav>
         <div class="nav-wrapper">
           <a href="/" class="brand-logo">
-            My Portfolio Site
+            Albalicia Espino Portfolio
           </a>
           <ul id="nav-mobile" class="right hide-on-med-and-down">
             <li>
