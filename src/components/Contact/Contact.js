@@ -3,13 +3,13 @@ import "./style.css";
 export default function Contact(props) {
   return (
     <div>
-      <h1>Name</h1>
-      <h2>City</h2>
+      <h1>Albalicia Espino</h1>
+      <h2>Dallas, TX</h2>
       <hr />
-      <p>General Information</p>
+      <p>Phone</p>
       <br />
       <i class="material-icons">add_shopping_cart</i>
-      <p>I like to Shop at Aldi</p>
+      <p>(972)201-8313</p>
 
       <p>General Information</p>
       <h4>GitHub Link:</h4>
